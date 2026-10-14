@@ -457,6 +457,7 @@ namespace ПР5
                             Console.Write(i + ". ");
                             p.ShowInfo();
                             i++;
+
                         }
                     }
                 }
